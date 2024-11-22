@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Geography</title>
+    <style>
+       
+    
+        body {
+          padding-top: 56px; 
+          background-color: #FFCC80;
+         
+        }
+    
+        @media only screen and (max-width: 576px) {
+      body {
+        background-color:  #F7DC6F; 
+        display: grid;
+      }
+
+    
+    }
+
+   
+    @media only screen and (min-width: 577px) and (max-width: 768px) {
+      body {
+        background-color: #EDBB99;
+        display: grid;
+      }
+
+      
+    }
+
+    
+    @media only screen and (min-width: 769px) {
+      body {
+        background-color: #FFCC80;
+        display: grid;
+      }
+    }
+    nav {
+      background-color: #213645; 
+      padding: 15px 20px;
+      text-align: center;
+      position: fixed;
+      width: 100%;
+      top: 0;
+    }
+
+    nav a {
+      color: #fffefe; 
+      text-decoration: none;
+      margin: 0 15px;
+      font-size: 18px;
+    }
+
+    
+
+    .Location{
+        text-align: center;
+        align-content: center;
+        align-items: center;
+    }
+    .carousel {
+      max-width: 800px; 
+      margin: auto; 
+    }
+
+    .content{
+      padding: 20px;
+
+    }
+
+    footer {
+      background-color: #333; 
+      color: #fff; 
+      text-align: center;
+      padding: 10px;
+      position: relative;
+      margin-top: 20px; 
+    }
+
+    .carousel-inner img {
+      width: 100%; 
+      height: auto; 
+    }
+
+    nav a:hover, .active{
+      background: #fff;
+      color: #201200;
+      border-radius: 4px;
+    
+    }
+
+    .section-heading {
+            margin-bottom: 30px;
+    }
+
+    .symbol-card,
+    .person-card {
+            padding: 20px;
+            margin-bottom: 30px;
+            border: 2px solid #ddd;
+            border-radius: 10px;
+            transition: transform 0.3s ease-in-out;
+            background-color: #f4e7ff82;
+            
+    }
+
+    .symbol-card:hover,
+    .person-card:hover {
+            transform: scale(1.05);
+    }
+
+    .card-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 15px;
+    }
+
+      </style>
+</head>
+<body>
+    <nav>
+        <a href="mainpage.html">Home</a>
+        <a href="history.html">History</a>
+        <a href="geography.html">Geography</a>
+        <a href="Landscape.html">Landscape</a>
+        <a href="Identity.html" class="active">Identity</a>
+        <a href="Heritage.html">Heritage</a>
+      </nav>
+    
+      <div class="content"> 
+        <h1 class="Location">Identity</h1>
+      </div>
+
+      <header class="py-5">
+        <div class="container text-center">
+            <h1 class="display-4">Egypt's National Symbols & Famous People</h1>
+            <p class="lead">Explore the rich cultural identity and notable figures of Egypt.</p>
+        </div>
+    </header>
+    
+    <section id="symbols" class="container">
+        <h2 class="section-heading text-center">National Symbols</h2>
+        <div class="row">
+            
+            <div class="col-lg-4">
+                <div class="symbol-card">
+                    <h3 class="text-center">Flag</h3>
+                    <img src="img/flag-world-egypt.gif" alt="Egypt Flag" class="card-image">
+                    <p class="text-muted">The flag of Egypt consists of three horizontal stripes of red, white, and black, with the national emblem, the Eagle of Saladin, centered in the white stripe.</p>
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                <div class="symbol-card">
+                    <h3 class="text-center">Animal</h3>
+                    <img src="img/steppe eagle.jpeg" alt="Egypt Animal" class="card-image">
+                    <p class="text-muted">The national animal of Egypt is the Steppe Eagle, often associated with the country's cultural significance.</p>
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                <div class="symbol-card">
+                    <h3 class="text-center">Flower</h3>
+                    <img src="img/lotus-flower.jpg" alt="Egypt Flower" class="card-image">
+                    <p class="text-muted">The Lotus Flower, with its cultural and symbolic significance, is considered the national flower of Egypt.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    
+    <section id="people" class="bg-dark container">
+        <h2 class="section-heading text-center">Famous People</h2>
+        <div class="row">
+            
+            <div class="col-lg-4">
+                <div class="person-card">
+                    <h3 class="text-center">Politician</h3>
+                    <img src="img/Anwar Sadat.webp" alt="Egypt Politician" class="card-image">
+                    <p class="text-muted">Anwar Sadat, the third President of Egypt, played a key role in the Arab-Israeli conflict and won the Nobel Peace Prize for his efforts.</p>
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                <div class="person-card">
+                    <h3 class="text-center">Entertainer</h3>
+                    <img src="img/umm-kulthum_1424425996.jpg" alt="Egypt Entertainer" class="card-image">
+                    <p class="text-muted">Umm Kulthum, known as the "Star of the East," was a legendary Egyptian singer, songwriter, and actress, renowned for her contributions to Arabic music.</p>
+                </div>
+            </div>
+            
+            <div class="col-lg-4">
+                <div class="person-card">
+                    <h3 class="text-center">Writer</h3>
+                    <img src="img/Naguib Mahfouz.jpg" alt="Egypt Writer" class="card-image">
+                    <p class="text-muted">Naguib Mahfouz, an Egyptian writer and Nobel laureate, is best known for his novels exploring themes of existentialism, politics, and society.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+   
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    
+      
+    <footer>
+      <p>For More Information Click <a href="https://en.wikipedia.org/wiki/National_symbols_of_Egypt">Here</a> </p>
+    </footer>
+    
+</body>
+</html>
