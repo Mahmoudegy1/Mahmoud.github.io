@@ -1,92 +1,135 @@
-# Mahmoud Metwally
-## Software Developer | Web Developer
+Mahmoud Metwally
+Junior Software Developer | IT & Data Analytics Graduate
 
-🎓 Final-year Software Development student at NBCC  
-💻 Full-stack Developer specializing in web and desktop applications  
+🎓 Information Technology (Data Analytics) graduate from NBCC
+💻 Junior full-stack developer with experience in web & desktop applications
+📍 Saint John, NB | Authorized to work in Canada (no sponsorship required)
 📧 Contact: mahmetfathy@gmail.com
 
-## Technical Stack
+🔗 LinkedIn: linkedin.com/in/mahmoud-metwally-7b1073357
 
-### Web Technologies
-- HTML5 & CSS3
-- JavaScript
-- PHP
-- AJAX
-- REST APIs
-- Responsive Design
+Technical Skills
+Programming Languages
 
-### Programming Languages
-- Java
-- C#
-- .NET Framework
+C#
 
-### Databases
-- MySQL
-- JSON
+PHP
 
-### Tools & Version Control
-- Git
+JavaScript
 
-## Featured Projects
+Java
 
-### Web Development
+Python (basic)
 
-#### Personal Blog Website
-- **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
-- **Key Features:**
-  - User authentication system
-  - Dynamic content management
-  - Comment system with moderation
-  - Responsive design implementation
-  - Database integration
+Web & Backend Technologies
 
-#### Task Management Application
-- **Technologies:** PHP, MySQL, JavaScript, AJAX
-- **Key Features:**
-  - CRUD operations
-  - User role management
-  - Real-time updates
-  - Data export functionality
-  - Database management
+HTML5, CSS3
 
-### Desktop Applications
+REST APIs
 
-#### Inventory Management System
-- **Technologies:** Java, MySQL
-- **Key Features:**
-  - Purchase order processing
-  - Sales reporting
-  - Transaction management
-  - Database integration
+AJAX
 
-#### Student Records System
-- **Technologies:** C#, .NET, MySQL, JSON
-- **Key Features:**
-  - Student enrollment management
-  - Grade tracking
-  - Attendance monitoring
-  - Report generation
-  - Data persistence
+Authentication & Authorization
 
-## Experience
+Responsive UI design
 
-**Cook To Order** | KFC, Saint John | July 2020 - Present
-- Developed strong problem-solving and time management skills
-- Enhanced team collaboration abilities
-- Improved communication with diverse stakeholders
+Databases
 
-## Education
+MySQL
 
-**Diploma in Software Development**  
-NBCC | Graduating April 2025
+JSON
 
-**High School Diploma**  
-Saint John High School, New Brunswick | June 2022
+Cloud, OS & Tools
 
-## Summary
+AWS (basic usage: EC2, S3)
 
-Full-stack developer with expertise in both web and desktop application development. Experienced in building robust applications using modern technologies and frameworks. Strong foundation in database management and system design. Seeking opportunities to contribute to innovative projects while expanding technical expertise.
+Linux (basic command-line usage)
 
----
-💼 Open to internship opportunities in web development and software development  
-🌱 Committed to continuous learning and professional growth 
+Git
+
+Power BI
+
+Visual Studio, IntelliJ, MySQL Workbench, Excel
+
+Projects
+Graduation / Capstone Project – Full-Stack Management System
+
+Technologies: C#, JavaScript, PHP, SQL, REST APIs, Power BI
+
+Built a full-stack web and desktop system with database connectivity
+
+Developed REST APIs to enable communication between modules
+
+Integrated Power BI dashboards for reporting and analytics
+
+Implemented authentication, testing, debugging, and performance optimization
+
+Inventory & Task Management Systems
+
+Technologies: C#, PHP, MySQL
+
+Implemented authentication and role-based access
+
+Developed CRUD operations with live updates
+
+Managed product tracking and task workflows
+
+Online Quiz Application & Portfolio Website
+
+Technologies: HTML, CSS, JavaScript, PHP
+
+Built form validation, scoring logic, and contact forms
+
+Designed responsive user interfaces
+
+Connected frontend components to backend logic
+
+Python Scripts & Database Automation
+
+Technologies: Python, MySQL
+
+Data cleaning and file automation
+
+Designed database schemas, triggers, and stored procedures
+
+Experience
+Software Development Intern – Tricoast Education
+
+April 2025 – June 2025
+
+Maintained and enhanced a live educational website using PHP, JavaScript, and SQL
+
+Debugged API and database query issues to ensure stable system performance
+
+Improved backend logic and optimized SQL queries
+
+Assisted with basic AWS usage (EC2/S3) for deployment and testing
+
+Worked in a Linux-based development environment
+
+Documented technical issues and validated changes before deployment
+
+Team Member (5-Star Employee) – KFC, Saint John
+
+Part-time | 2020 – 2025
+
+Delivered excellent customer service in a fast-paced environment
+
+Recognized for performance, teamwork, and reliability
+
+Assisted in training new staff and maintaining daily operations
+
+Education
+
+Diploma in Information Technology (Data Analytics)
+NBCC, Saint John, NB — June 2025
+
+High School Diploma
+Saint John High School, NB — June 2022
+
+Summary
+
+Junior software developer and IT graduate with hands-on experience in full-stack development, backend systems, and database management. Skilled in C#, PHP, JavaScript, SQL, and REST APIs, with exposure to Linux environments, AWS cloud services, and data analytics tools. Strong problem-solver, quick learner, and team player seeking entry-level opportunities in software development, IT, or data-focused roles.
+
+💼 Open to Junior Software Developer, IT Support, Data Analyst, and Technical Support roles
+🌱 Passionate about continuous learning and professional growth
